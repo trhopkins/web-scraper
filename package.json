@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/trhopkins/web-scraper/issues"
   },
-  "homepage": "https://github.com/trhopkins/web-scraper#readme"
+  "homepage": "https://github.com/trhopkins/web-scraper#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "file": "^0.2.2",
+    "website-scraper": "^5.0.0"
+  }
 }
