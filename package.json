@@ -19,6 +19,8 @@
   "dependencies": {
     "axios": "^0.26.1",
     "file": "^0.2.2",
-    "website-scraper": "^5.0.0"
+    "filesaver": "^0.0.13",
+    "website-scraper": "^5.0.0",
+    "puppeteer": "^13.5.2"
   }
 }
